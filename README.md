@@ -1,1 +1,3 @@
-
+- Hi I am Nicolas
+- I am interested in genetics, epigenetics and other omics
+- Currently a researcher at the University of Bergen
